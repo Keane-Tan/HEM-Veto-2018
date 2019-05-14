@@ -1,8 +1,10 @@
 # Sample Code for Creating Ratio Plots and Evaluating Veto Performance
 
 In this example, the HEM vetos are pT>25 and:
--2.07 + n*0.025 < phi < -0.870 + n*0.025
--3.5 + n*0.025 < eta < -1.40 + n*0.025
+
+-2.07 + 0.025n &#60 phi &#60 -0.870 + 0.025n
+
+-3.5 + 0.025n &#60 eta &#60 -1.40 + 0.025n
 
 where n = 1, 2, ..., 21
 
