@@ -2,9 +2,9 @@
 
 In this example, the HEM vetos are pT>25 and:
 
--2.07 + 0.025n &#x003C phi &#x003C 870 + 0.025n
+-2.07 + 0.025n < phi < 870 + 0.025n
 
--3.5 + 0.025n &#x003C eta &#x003C -1.40 + 0.025n
+-3.5 + 0.025n < eta < -1.40 + 0.025n
 
 where n = 1, 2, ..., 21
 
